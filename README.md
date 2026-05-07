@@ -1,2 +1,3 @@
-# -Supermarket-Sales-Performance-Report
-An interactive Power BI dashboard analyzing supermarket sales, customer behavior, product performance, and revenue trends from January–March 2019 using Power BI, Power Query, and DAX.
+# Title: Supermarket Sales Performance Report (2020–2025)
+## Subtitle:
+Analyzing 5 years of supermarket transaction data to uncover sales trends, customer behavior, and profitability insights using Power BI.
