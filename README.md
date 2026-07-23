@@ -42,6 +42,9 @@ Using Power Query, the dataset was prepared for analysis by:
 - Creating calculated measures using DAX
 - Building relationships between tables where required
 
+## Data Preview
+![Dataset](Supermarket-Analysis-dataset.xlsx)
+
 ## Analysis & Insights
 This dashboard uncovers key business insights across sales performance, customer behaviour, and product performance.
   
