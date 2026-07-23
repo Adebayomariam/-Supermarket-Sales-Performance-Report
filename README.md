@@ -43,7 +43,7 @@ Using Power Query, the dataset was prepared for analysis by:
 - Building relationships between tables where required
 
 ## Data Preview
-![Dataset](SuperMarket -dataset.png)
+![Dataset](SuperMarket-dataset.png)
 
 ## Analysis & Insights
 This dashboard uncovers key business insights across sales performance, customer behaviour, and product performance.
@@ -104,5 +104,7 @@ Based on the analysis, I recommend the following actions:
 - Monitor customer satisfaction continuously to identify service improvements that may increase repeat purchases and customer loyalty.
 - Use sales insights to optimize inventory levels for high-performing categories such as Food & Beverages and Sports & Travel, reducing stock shortages while minimizing overstock in slower-moving categories.
 
+## Links
+[Interactive PowerBI Dashboard](https://app.powerbi.com/groups/me/reports/315ca417-1aa2-4fc5-bb20-65e99aadfb84/7084e6251fe1095ffcf8?redirectedFromSignup=1&experience=power-bi)
 
 
